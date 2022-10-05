@@ -1,0 +1,12 @@
+body {
+    padding: 0; 
+    margin: 0;
+    background-color: rgb(29, 29, 29);
+    
+}
+
+canvas {
+    border-radius: 15px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.8);
+    
+}
